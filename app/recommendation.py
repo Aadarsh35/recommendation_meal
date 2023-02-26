@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 #--------some essential variables
-DATAPATH = "datasets/custom"
+DATAPATH = "/Users/rajkumarkhatri/hillo/recommendation_meal/datasets"
 ##users id which is passed 
 ##these dats are handled by the other developers
 USER_ID = 4
